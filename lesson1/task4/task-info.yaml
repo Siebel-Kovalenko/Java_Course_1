@@ -1,0 +1,20 @@
+type: ide
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    public class Main {
+       public static void main(String[] args) {
+          // Write your solution here
+       }
+
+
+    }
+  learner_created: false
+- name: test/output.txt
+  visible: false
+  learner_created: false
+status: Solved
+feedback:
+  time: Thu, 19 Nov 2020 19:14:55 UTC
+record: -1

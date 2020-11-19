@@ -1,0 +1,3 @@
+# Project exclude paths
+/.gradle/
+/lesson1/task3/build/
